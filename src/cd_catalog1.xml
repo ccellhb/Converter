@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <CATALOG>
-	<BOOK>
+	<BOOK1>
 		<TITLE>Mad Dogs and Englishmen</TITLE>
 		<ARTIST>Joe Cocker</ARTIST>
 		<COMPANY>A&amp;M</COMPANY>
 		<COUNTRY>USA</COUNTRY>
 		<PRICE>9.80</PRICE>
 		<YEAR>1970</YEAR>
-	</BOOK>
+	</BOOK1>
 	<CD>
 		<HH>Empire Burlesque</HH>
 		<TITLE>Empire Burlesque</TITLE>
